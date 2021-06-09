@@ -1,0 +1,28 @@
+
+		body{
+			color:white;
+		}
+		table {
+		        border-collapse: separate;
+		        border-spacing: 0 15px;
+		      }
+		.button{
+			      padding:5px;
+			      border-radius: 12px;
+			      font-size: 30px;
+			      background-color: white;
+				  color: black;
+				  border: 2px solid #555555;
+		      }
+		.button:hover {
+			  background-color: #555555;
+			  color: white;
+		}
+		.label{
+			color:white;
+			font-size:25px;
+		}
+		
+		input{
+			size: 100px;
+		}
